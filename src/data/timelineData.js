@@ -7,7 +7,7 @@ export default [
   },
   {
     year: "Today",
-    title: "Online Tutor",
+    title: "Online Tutor @ eCode Academy",
     duration: "1 year",
     details: "Successfully helped students improve their grades by implementing personalized learning plans for Structural Programming, Object-oriented Programming, Algorithms and Data Structures and Operating Systems.",
   },

@@ -6,7 +6,7 @@ const Portfolio = () => {
     <>
     <div className="flex justify-center mb-4">
         <a
-          href="assets/portfolio.pdf"
+          href="assets/slavkos-portfolio.pdf"
           download
           className="inline-flex items-center px-2 py-1 font-semibold text-white dark:text-stone-900 bg-stone-900 dark:bg-white rounded-md"
         >

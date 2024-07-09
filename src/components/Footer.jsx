@@ -21,7 +21,7 @@ function Footer() {
               </svg>
             </a>
             <a
-              href="mailto:slavcetrajkovski@gmail.com"
+              href="mailto:s.trajkovski02@yahoo.com"
               target="_blank"
               className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full"
             >

@@ -2,8 +2,14 @@ export default [
   {
     title: "Funkogram MK",
     imgUrl: "assets/funkogram.png",
-    stack: ["Node.js", "Express.js", "Firebase"],
+    stack: ["Spring Boot", "Next.js", "PostgreSQL"],
     link: "https://funkogram.mk/",
+  },
+  {
+    title: "Eventor (In development)",
+    imgUrl: "/assets/eventor.png",
+    stack: ["Next.js", "Mongoose", "MongoDB"],
+    link: "https://eventor-one.vercel.app/",
   },
   {
     title: "Bookinator",
@@ -15,13 +21,7 @@ export default [
     title: "eCode Academy",
     imgUrl: "/assets/ecode.png",
     stack: ["Node.js", "Express.js", "Firebase"],
-    link: "https://www.ecode-mk.cyclic.app",
-  },
-  {
-    title: "Eventor (In development)",
-    imgUrl: "/assets/eventor.png",
-    stack: ["Next.js", "Mongoose", "MongoDB"],
-    link: "https://eventor-bice.vercel.app/",
+    link: "#",
   },
   {
     title: "Chess Game",

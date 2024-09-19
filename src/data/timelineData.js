@@ -15,6 +15,6 @@ export default [
     year: "Today",
     title: "Bachelor of Computer Science and Engineering",
     duration: "4 years",
-    details: "Currently in 3rd year of studies at Ss. Cyril and Methodious University, Faculty of Computer Science & Engineering.",
+    details: "Currently in 4th year of studies at Ss. Cyril and Methodious University, Faculty of Computer Science & Engineering.",
   },
 ];
